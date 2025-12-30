@@ -47,7 +47,7 @@ How It Works
 
 Setup and Installation
 1. Clone the repository
-   git clone https://github.com/your-username/job-autofill-extension
+   git clone https://github.com/nikhil17042004/job-autofill-extension
 
 2. Open Google Chrome and go to
    chrome://extensions/
