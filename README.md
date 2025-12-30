@@ -58,6 +58,9 @@ Setup and Installation
 
 5. Select the project folder
 
+6. Demo Video: https://drive.google.com/file/d/1qrYdGzbyZT6ktMaAZz8x2K6TqPcA7i6L/view?usp=sharing
+
+
 The extension will now appear in the Chrome toolbar.
 
 --------------------------------------------------
